@@ -12,7 +12,7 @@ site_theme               : "default" # the available themes options are "default
 title                    : "钱佳辰 | Jiachen Qian"
 title_separator          : "-"
 name                     : &name "钱佳辰"
-description              : &description "钱佳辰的学术主页 - 香港城市大学（东莞）计算机科学硕士研究生"
+description              : &description "钱佳辰的学术主页 - 香港城市大学计算机科学硕士研究生"
 url                      : https://qianjiachen.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "钱佳辰"
   pronouns         : # example: "she/her"  
-  bio              : "香港城市大学（东莞）计算机科学硕士研究生"
-  location         : "东莞, 中国"
-  employer         : "City University of Hong Kong (Dongguan)"
+  bio              : "香港城市大学计算机科学硕士研究生"
+  location         : "香港, 中国"
+  employer         : "City University of Hong Kong"
   uri              : # URL
   email            : "72510756@cityu-dg.edu.cn" 
 
